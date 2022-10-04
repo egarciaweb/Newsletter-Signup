@@ -30,7 +30,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Below is an example of how you can get the application up and running after installing dependencies._
 
 1. Get a free (Or paid) API Key at [https://mailchimp.com](https://mailchimp.com)
 2. Clone the repo
@@ -52,9 +52,9 @@ _Below is an example of how you can instruct your audience on installing and set
 
 # Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Here is a quick workflow of the application at work.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For a full experience, please refer to the live [Demo](https://enigmatic-plains-08558.herokuapp.com/)_
 
 <!-- ### Signing up... -->
 _Signing up..._
